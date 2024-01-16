@@ -1,0 +1,11 @@
+com\recondeveloper\emailanalysis\model\Email.class
+com\recondeveloper\emailanalysis\AppTest.class
+com\recondeveloper\emailanalysis\converter\impl\AppleMailConverter.class
+com\recondeveloper\emailanalysis\analysis\EmailAnalyzer.class
+com\recondeveloper\emailanalysis\converter\EmailConverter.class
+com\recondeveloper\emailanalysis\converter\EmailConverterFactory.class
+com\recondeveloper\emailanalysis\parser\EmailParser.class
+com\recondeveloper\emailanalysis\converter\EmailConversionService.class
+com\recondeveloper\emailanalysis\converter\impl\OutlookEmailConverter.class
+com\recondeveloper\emailanalysis\ui\EmailAnalysisUI.class
+com\recondeveloper\emailanalysis\visualization\DataVisualizer.class
